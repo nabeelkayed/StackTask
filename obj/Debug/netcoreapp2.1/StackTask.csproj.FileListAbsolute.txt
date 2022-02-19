@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\StackTask\bin\Debug\netcoreapp2.1\StackTask.deps.json
+C:\Users\hp\source\repos\StackTask\bin\Debug\netcoreapp2.1\StackTask.runtimeconfig.json
+C:\Users\hp\source\repos\StackTask\bin\Debug\netcoreapp2.1\StackTask.runtimeconfig.dev.json
+C:\Users\hp\source\repos\StackTask\bin\Debug\netcoreapp2.1\StackTask.dll
+C:\Users\hp\source\repos\StackTask\bin\Debug\netcoreapp2.1\StackTask.pdb
+C:\Users\hp\source\repos\StackTask\obj\Debug\netcoreapp2.1\StackTask.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\StackTask\obj\Debug\netcoreapp2.1\StackTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\StackTask\obj\Debug\netcoreapp2.1\StackTask.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\StackTask\obj\Debug\netcoreapp2.1\StackTask.AssemblyInfo.cs
+C:\Users\hp\source\repos\StackTask\obj\Debug\netcoreapp2.1\StackTask.dll
+C:\Users\hp\source\repos\StackTask\obj\Debug\netcoreapp2.1\StackTask.pdb
